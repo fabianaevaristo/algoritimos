@@ -1,0 +1,398 @@
+
+{
+  "costura": [
+    {
+      "id": "1",
+      "name": "Blusa",
+      "total_material": "4",
+      "time":  4,
+      "cover": "https://i.imgur.com/Cdmh58Z.jpeg",
+      "video": "https://www.youtube.com/watch?v=5kNAiDmFMFo",
+      "material": [
+        {
+          "id": "1",
+          "name": "molde",
+          "amount": "1"
+        },
+        { 
+          "id": "2",
+          "name": "tecido viscose",
+          "amount": "1m"
+        },
+        { 
+          "id": "3",
+          "name": "linha",
+          "amount": "1"
+        },
+        { 
+          "id": "4",
+          "name": "botão",
+          "amount": "1"
+        }      
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Pegue o tecido e coloque em cima uma blusa já pronta."
+        },
+        {
+          "id": "2",
+          "text": "Defini o comprimento da blusa."
+        },
+        {
+          "id": "3",
+          "text": " Decide se deseja manga ou não."
+        },
+        {
+          "id": "4",
+          "text": "Corta a parte da frente e costa ao mesmo tempo, decote frente maior."
+        },
+          {
+          "id": "5",
+          "text": "Escolhe o tamanho do botão e aplicar na peça com ajuda do molde."
+        },
+        {
+          "id": "6",
+          "text": "Utiliza o ferro para marca a barra."
+        },
+        {
+          "id": "7",
+          "text": "Acabamneto na costura com viés."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Jaqueta",
+      "total_material": "4",
+      "time":  7,
+      "cover": "https://i.imgur.com/KcBnDTK.png",
+      "video": "https://www.youtube.com/watch?v=PycfEQjeark&t=0s",
+      "material": [
+        {
+          "id": "1",
+          "name": "molde",
+          "amount": "1"
+        },
+        { 
+          "id": "2",
+          "name": "tecido Sarja",
+          "amount": "1m"
+        },
+        { 
+          "id": "3",
+          "name": "linha",
+          "amount": "1"
+        },
+        { 
+          "id": "4",
+          "name": "botão",
+          "amount": "1"
+        }
+        
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Pegue o tecido, desenhe o molde e depois recote."
+          },
+        {
+          "id": "2",
+          "text": "Defini o comprimento da jaqueta."
+        },
+        {
+          "id": "3",
+          "text": " Decidi se deseja manga longa ou não."
+        },
+        {
+          "id": "4",
+          "text": "Escolhe o tamanho do botão e aplicar na peça."
+        },
+        {
+          "id": "6",
+          "text": "Utiliza o ferro para marca a barra."
+        },
+        {
+          "id": "7",
+          "text": "Acabamneto da peça com viés."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Short",
+      "total_material": "5",
+      "time":  8,
+      "cover": "https://i.imgur.com/9h5BfD0.png",
+      "video": "https://www.youtube.com/watch?v=FwMWXVfYmi4",
+      "material": [
+        {
+          "id": "1",
+          "name": "molde",
+          "amount": "1"
+        },
+        { 
+          "id": "2",
+          "name": "tecido linho",
+          "amount": "1,2m"
+        },
+        { 
+          "id": "3",
+          "name": "linha",
+          "amount": "1"
+        },
+        { 
+          "id": "4",
+          "name": "botão",
+          "amount": "1"
+        },
+        { 
+          "id": "5",
+          "name": "ziper",
+          "amount": "1"
+        }
+        
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Pegue o tecido e coloque o molde."
+        },
+        {
+          "id": "2",
+          "text": "Defini o comprimento do short."
+          },
+        {
+          "id": "3",
+          "text": " faça o detalhe do cós."
+        },
+        {
+          "id": "4",
+          "text": "Faça o detalhe da braguilha"
+        },
+        {
+          "id": "5",
+          "text": "Escolhe o tamanho do botão e aplicar na peça."
+        },
+        {
+          "id": "6",
+          "text": "Utiliza o ferro para marca a barra."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Vestido",
+      "total_material": "6",
+      "time":  11,
+      "cover": "https://i.imgur.com/QzdRwRv.png",
+      
+      "video": "https://www.youtube.com/watch?v=EW5NW9Q_Cxg",
+      "material": [
+        {
+          "id": "1",
+          "name": "molde",
+          "amount": "1"
+        },
+        { 
+          "id": "2",
+          "name": "tecido viscose",
+          "amount": "1,20m"
+        },
+        { 
+          "id": "3",
+          "name": "linha",
+          "amount": "1"
+        },
+        { 
+          "id": "4",
+          "name": "fita métrica",
+          "amount": "1"
+        },
+        { 
+          "id": "5",
+          "name": "agulha 11 ou 14",
+          "amount": "1"
+        },
+        { 
+          "id": "6",
+          "name": "máquina",
+          "amount": "1"
+        } 
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Dobra 1 metro e 15cm do tecido."
+        },
+        {
+          "id": "2",
+          "text": "Defini o comprimento do vestido."
+        },
+        {
+          "id": "3",
+          "text": " Decide se deseja manga ou não."
+        },
+        {
+          "id": "4",
+          "text": "Corta a parte da frente e costa ao mesmo tempo, decote frente maior."
+        },
+        {
+          "id": "5",
+          "text": "Corta a parte do babado da saia e realiza o processo do franzido."
+        },
+        {
+          "id": "6",
+          "text": "Utiliza o ferro para marca a barra."
+        },
+        {
+          "id": "7",
+          "text": "Acabamneto na costura toda no viés."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Calça",
+      "total_material": "4",
+      "time":  11,
+      "cover": "https://i.imgur.com/53ecnzn.png",
+      "video": "https://www.youtube.com/watch?v=eY-PGxcjzuE",
+      "material": [
+        {
+          "id": "1",
+          "name": "molde",
+          "amount": "1"
+        },
+        { 
+          "id": "2",
+          "name": "tecido crepe",
+          "amount": "1,5m"
+        },
+        { 
+          "id": "3",
+          "name": "ziper",
+          "amount": "1"
+        },
+        { 
+          "id": "4",
+          "name": "botão",
+          "amount": "1"
+        }
+        
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Pegue o tecido e desenhe o molde da calça."
+        },
+        {
+          "id": "2",
+          "text": "aprenda a colocar o bolso faca."
+        },
+        {
+          "id": "3",
+          "text": "colocar o ziper na parte da frente."
+        },
+        {
+          "id": "4",
+          "text": "coloque o cós anatômico."
+        },
+        {
+          "id": "5",
+          "text": "Escolhe o tamanho do botão e aplicar na peça."
+        },
+        {
+          "id": "6",
+          "text": "Utiliza o ferro para marca a barra."
+        },
+        {
+          "id": "7",
+          "text": "Acabamneto na costura com viés."
+        },
+        {
+          "id": "8",
+          "text": "aplicart a intertela no cós."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Saia",
+      "total_material": "2",
+      "time":  12,
+      "cover": "https://i.imgur.com/wqlRz1o.png",
+      "video": "https://www.youtube.com/watch?v=pLv7LroKMFo",
+      "material": [
+        { 
+          "id": "1",
+          "name": "tecido viscose",
+          "amount": "1,5m"
+        },
+        { 
+          "id": "2",
+          "name": "linha",
+          "amount": "1"
+        } 
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Pegue o tecido e dobre, marque as medidas com a fita métrica."
+        },
+        {
+          "id": "2",
+          "text": "Defini o comprimento da saia."
+        },
+        {
+          "id": "3",
+          "text": " corte as faixas que serão usada para para completa a saia, formando as trrês Marias."
+        },
+        {       
+          "id": "4",
+          "text": "Acabamneto na costura com viés."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Saida de praia",
+      "total_material": "4",
+      "time":  4,
+      "cover": "https://i.imgur.com/70TcKyQ.png",
+      "video": "https://www.youtube.com/watch?v=5kNAiDmFMFo",
+      "material": [
+        {
+          "id": "1",
+          "name": "malha",
+          "amount": "1m"
+        },
+        { 
+          "id": "2",
+          "name": "tesoura",
+          "amount": "1m"
+        },
+        { 
+          "id": "3",
+          "name": "linha",
+          "amount": "1"
+        } 
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Pegue o tecido e desenho o molde."
+        },
+        {
+          "id": "2",
+          "text": "Defini o comprimento do vestido."
+        }
+      ]
+    }
+  ]  
+}
+
+      
+     
+    
+ 
